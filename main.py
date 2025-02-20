@@ -8,3 +8,4 @@ lista = [x,y,z]
 
 # stampo la lista
 print(lista)
+print(lista)
